@@ -9,7 +9,7 @@ Wesentliches Ziel unserer Ausbildung ist es, Auszubildende und Schüler/innen zu
 
 In diesem Repository dokumentieren und teilen wir folgende Projekte:
 
-- **´Beispielprojekt**: Erklärung.
+- **Beispielprojekt**: Erklärung.
 - ... 
 
 ## Mitarbeit
