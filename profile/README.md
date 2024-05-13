@@ -14,3 +14,8 @@ In diesem Repository dokumentieren und teilen wir folgende Projekte:
 
 ## Mitarbeit
 Alle Mitglieder unserer Schule sind herzlich eingeladen, an bestehenden oder neuen Projekten mitzuarbeiten. Bitte beachten Sie unseren Verhaltenskodex und arbeiten Sie stets konstruktiv zusammen. Für Rückfragen oder Anregungen stehen die Administratoren gerne zur Verfügung.
+
+## Lizensierung der Projekte
+Wenn in einem Repository keine Lizenz angegeben ist, gilt standardmäßig die MIT-Lizenz für den Quellcode und alle zugehörigen Materialien in diesem Repository. Entwickler und Anwender können dann davon ausgehen, dass sie die Software unter den Bedingungen der MIT-Lizenz nutzen können.
+
+Selbstverständlich steht es den Projektverantwortlichen frei, in ihren Repositories eine andere, für ihr Projekt geeignetere Lizenz zu wählen. In diesem Fall wird die spezifische Lizenz im Repository selbst dokumentiert.
